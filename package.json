@@ -1,0 +1,22 @@
+{
+  "name": "mock-api",
+  "version": "1.0.0",
+  "description": "API mocking using playwright",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kumarpurbey-gif/mock-api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kumarpurbey-gif/mock-api/issues"
+  },
+  "homepage": "https://github.com/kumarpurbey-gif/mock-api#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.58.2",
+    "@types/node": "^25.5.0"
+  }
+}
